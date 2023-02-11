@@ -55,11 +55,12 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - RecyclerView
 - Constraintlayout, framelayout e linearlayout
 - Binding
--Room
--Coroutines
--Dagger Hilt
--Picasso
--MVVM
+- Room 
+- Coroutines
+- Dagger Hilt
+- Picasso
+- MVVM
+
 
 
 
@@ -78,8 +79,9 @@ O projeto foi desenvolvido utilizando as seguintes bibliotecas:
 
 ---
 
-## 🚀 Video youtube (Tutorial)
+## 🚀 Video youtube (Tutorial) - Canal Desenvolvedor Noob
 
+https://www.youtube.com/watch?v=QVKXb62cWy0&list=PLDaL-rEXYvLsHLMJX3ttV4JuuPygCFB6M&index=2
 
 ---
 
