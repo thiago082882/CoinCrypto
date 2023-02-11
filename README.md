@@ -34,7 +34,7 @@
 
 ## 📖 Sobre
 
-O projeto foi realizado em grupo e tem como objetivo desenvolver um aplicativo bancário que oferece funcionalidades como cadastro de usuários, edição de perfil, adição de telefone, registro de depósitos, visualização de outros usuários, exibição de datas de transações, confirmação de remetentes e destinatários, e uma central de notificações em tempo real. Além disso, há a possibilidade de recuperação da conta enviando um e-mail para o endereço cadastrado.
+O intuito desse projeto foi a criação de uma aplicativo mobile de crypto moedas para desenvolvimento pessoal usando a  CoinGecko API.
 
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
@@ -44,7 +44,7 @@ Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de a
 O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 
 - Android Studio
-- Java
+- Kotlin
 - XML
 - Intents
 - Bundle
@@ -53,11 +53,13 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Lógica de Programação
 - Pogramação Orientada a Objetos
 - RecyclerView
-- Banco de Dados
-- Firebase (Realtime e Storage)
 - Constraintlayout, framelayout e linearlayout
-- JSON
 - Binding
+-Room
+-Coroutines
+-Dagger Hilt
+-Picasso
+-MVVM
 
 
 
@@ -67,16 +69,17 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 
 O projeto foi desenvolvido utilizando as seguintes bibliotecas:
 
-- https://github.com/ReactiveX/RxAndroid/releases (RxJava)
+- https://developer.android.com/jetpack/androidx/releases/room?hl=pt-br (Room)
 - https://square.github.io/retrofit/ 
-- https://github.com/bumptech/glide (Carregamento mais leve das imagens)
-- https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=pt-br
+- https://square.github.io/picasso/ (Carregamento mais leve das imagens)
+- https://developer.android.com/training/dependency-injection/hilt-android?hl=pt-br(Dagger Hilt)
+-https://developer.android.com/kotlin/coroutines?hl=pt-br (Coroutines)
 
 
 ---
 
-## 🚀 Video
-https://www.linkedin.com/posts/thiagocostadejesus_android-designthinking-fourcamp22-activity-6949891899092561920-2M8d?utm_source=share&utm_medium=member_desktop
+## 🚀 Video youtube (Tutorial)
+
 
 ---
 
